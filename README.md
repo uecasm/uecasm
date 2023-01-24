@@ -6,10 +6,6 @@
 [![Readme Pin](https://github-readme-stats.vercel.app/api/pin/?username=uecasm&repo=Mirality.Blazor.Routing)](https://github.com/uecasm/Mirality.Blazor.Routing)
 [![Readme Pin](https://github-readme-stats.vercel.app/api/pin/?username=uecasm&repo=Mirality.Blazor.Icons)](https://github.com/uecasm/Mirality.Blazor.Icons)
 
-### Linux
-
-[![Readme Pin](https://github-readme-stats.vercel.app/api/pin/?username=uecasm&repo=mxser)](https://github.com/uecasm/mxser)
-
 ### Minecraft
 
 [![Readme Pin](https://github-readme-stats.vercel.app/api/pin/?username=uecasm&repo=colony4cc)](https://github.com/uecasm/colony4cc)
