@@ -14,6 +14,7 @@
 
 [![Readme Pin](https://github-readme-stats.vercel.app/api/pin/?username=uecasm&repo=colony4cc)](https://github.com/uecasm/colony4cc)
 [![Readme Pin](https://github-readme-stats.vercel.app/api/pin/?username=uecasm&repo=rs4cc)](https://github.com/uecasm/rs4cc)
+[![Readme Pin](https://github-readme-stats.vercel.app/api/pin/?username=ldtteam&repo=minecolonies&show_owner=true)](https://github.com/ldtteam/minecolonies)
 
 ### Other
 
