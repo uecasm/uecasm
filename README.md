@@ -6,6 +6,10 @@
 [![Readme Pin](https://github-readme-stats.vercel.app/api/pin/?username=uecasm&repo=Mirality.Blazor.Routing)](https://github.com/uecasm/Mirality.Blazor.Routing)
 [![Readme Pin](https://github-readme-stats.vercel.app/api/pin/?username=uecasm&repo=Mirality.Blazor.Icons)](https://github.com/uecasm/Mirality.Blazor.Icons)
 
+### .NET
+
+[![Readme Pin](https://github-readme-stats.vercel.app/api/pin/?username=uecasm&repo=Mirality.WatchableValue)](https://github.com/uecasm/Mirality.WatchableValue)
+
 ### Minecraft
 
 [![Readme Pin](https://github-readme-stats.vercel.app/api/pin/?username=uecasm&repo=colony4cc)](https://github.com/uecasm/colony4cc)
