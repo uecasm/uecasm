@@ -9,6 +9,7 @@
 ### .NET
 
 [![Readme Pin](https://github-readme-stats.vercel.app/api/pin/?username=uecasm&repo=Mirality.WatchableValue)](https://github.com/uecasm/Mirality.WatchableValue)
+[![Readme Pin](https://github-readme-stats.vercel.app/api/pin/?username=uecasm&repo=Mirality.FileProviders.InMemory)](https://github.com/uecasm/Mirality.FileProviders.InMemory)
 
 ### Minecraft
 
